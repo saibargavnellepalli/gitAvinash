@@ -3,6 +3,3 @@
 
 
 //subtraction
-
-
-//multiplication
